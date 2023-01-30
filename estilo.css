@@ -288,7 +288,7 @@ body {
         column-gap: 2.2vw;
         padding: 16px 60px;
         height: 9.86vh;
-        /*min-height: 80px;*/
+        min-height: 80px;
         width: 100%;
         box-sizing: border-box;
         grid-column: 2;
